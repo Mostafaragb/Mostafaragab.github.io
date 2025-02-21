@@ -1,1 +1,3 @@
-
+git rm doc
+git commit -m "Deleted doc"
+git push origin main
